@@ -1,3 +1,3 @@
 Willkommen auf meinem Blog!
 
-Checkt auch gerne das: https://larshd44.bplaced.net
+Checkt auch gerne das: http://larshd44.bplaced.net
