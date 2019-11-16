@@ -1,15 +1,12 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
+    <a href="http://larshd44.bplaced.net/github.html"><img src="http://larshd44.bplaced.net/geil.png" width="546" alt="lars_hd44-Logo" /></a>
   </p>
   <br />
   <p>
     <a href="https://discord.gg/C7sjRgC"><img src="https://discordapp.com/api/guilds/642458882693922816/embed.png" alt="Discord server" /></a>
     
-  </p>
-  <p>
-    <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
   </p>
 </div>
 
