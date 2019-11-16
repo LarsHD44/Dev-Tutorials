@@ -1,11 +1,3 @@
-<html>
-  <head>
-  <title>SourceCode-Webseite von Lars_HD44</title>
-  <link rel="icon" type="image/png" href="https://i.ibb.co/jLHbsYp/geil.png">
-
-
-</head>
-<body>
 <div align="center">
   <br />
   <p>
@@ -24,5 +16,3 @@ Willkommen auf Meiner SourceCode-Webseite!
 ```
 Hier kommt dann Code rein!
 ```
-</body>
-</html>
