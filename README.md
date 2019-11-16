@@ -12,3 +12,7 @@
 Willkommen auf Meiner SourceCode-Webseite!
 
 ## Coming soon...
+
+```
+Hier kommt dann Code rein!
+```
