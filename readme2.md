@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="http://larshd44.bplaced.net/Github.html"><img src="https://s57.workupload.com/image/8vEZbUTq" width="546" alt="lars_hd44-Logo" /></a>
+    <a href="http://larshd44.bplaced.net/Github.html"><img src="https://i.ibb.co/jLHbsYp/geil.png" width="546" alt="lars_hd44-Logo" /></a>
   </p>
   <br />
   <p>
