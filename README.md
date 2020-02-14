@@ -1,3 +1,8 @@
+
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>  
+<body>
 <div align="center">
   <br />
   <p>
@@ -16,3 +21,4 @@ Willkommen auf Meiner SourceCode-Webseite!
 ```
 Hier kommt dann Code rein!
 ```
+</body>
